@@ -1,14 +1,14 @@
-package model;
+package model.mainframe;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import model.Transaction.Type;
 import model.account.Account;
 import model.account.Chequing;
 import model.account.interfaces.Taxable;
+import model.mainframe.Transaction.Type;
 
 public class Bank {
 

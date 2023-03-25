@@ -5,9 +5,9 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
-import model.Bank;
-import model.Transaction;
 import model.account.Account;
+import model.mainframe.Bank;
+import model.mainframe.Transaction;
 
 public class App {
 
