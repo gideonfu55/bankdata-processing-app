@@ -1,4 +1,4 @@
-package model.account.interfaces;
+package model.interfaces;
 
 public interface Taxable {
 

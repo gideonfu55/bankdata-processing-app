@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 import model.account.Account;
 import model.account.Chequing;
-import model.account.interfaces.Taxable;
+import model.interfaces.Taxable;
 import model.mainframe.Transaction.Type;
 
 public class Bank {
