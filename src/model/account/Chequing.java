@@ -1,6 +1,6 @@
 package model.account;
 
-import model.interfaces.Taxable;
+import model.account.implement.Taxable;
 
 public class Chequing extends Account implements Taxable {
 
